@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Still Time";
+  src: URL("../fonts/still_time.ttf") format("truetype");
+}
+
+body,
+html {
+  height: 100%;
+}
+
+.still-time {
+  font-family: "Still Time", Fallback, sans-serif;
+}
+
+.logo {
+  text-shadow: 2px 2px black;
+}
